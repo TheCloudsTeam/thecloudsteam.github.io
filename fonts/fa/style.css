@@ -1,4 +1,3 @@
-
 .fa,.fab,.fad,.fal,.far,.fas {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -9478,8 +9477,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(../fonts/fa-brands-400.eot);
-  src: url(../fonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(../fonts/fa-brands-400.woff2) format("woff2"), url(../fonts/fa-brands-400.woff) format("woff"), url(../fonts/fa-brands-400.ttf) format("truetype"), url(../fonts/fa-brands-400.svg#fontawesome) format("svg")
+  src: url(fa-brands-400.eot);
+  src: url(fa-brands-400.eot?#iefix) format("embedded-opentype"), url(fa-brands-400.woff2) format("woff2"), url(fa-brands-400.woff) format("woff"), url(fa-brands-400.ttf) format("truetype"), url(fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -9492,8 +9491,8 @@
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(../fonts/fa-duotone-900.eot);
-  src: url(../fonts/fa-duotone-900.eot?#iefix) format("embedded-opentype"), url(../fonts/fa-duotone-900.woff2) format("woff2"), url(../fonts/fa-duotone-900.woff) format("woff"), url(../fonts/fa-duotone-900.ttf) format("truetype"), url(../fonts/fa-duotone-900.svg#fontawesome) format("svg")
+  src: url(fa-duotone-900.eot);
+  src: url(fa-duotone-900.eot?#iefix) format("embedded-opentype"), url(fa-duotone-900.woff2) format("woff2"), url(fa-duotone-900.woff) format("woff"), url(fa-duotone-900.ttf) format("truetype"), url(fa-duotone-900.svg#fontawesome) format("svg")
 }
 
 .fad {
